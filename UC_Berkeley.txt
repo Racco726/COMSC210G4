@@ -1,0 +1,78 @@
+Broad Discipline 	College/School** 	Major	Admit GPA Range	Admit Rate	Enroll GPA Range	Yield Rate	Admits	Applicants	Enrolls
+Agriculture & Natural Resources	Letters & Science	ENVIRONMENTAL ECONOMICS & POLICY	3.70 - 3.90	0.336633663	3.70 - 3.91	0.941176471	34	101	32
+Agriculture & Natural Resources	Letters & Science	GEOGRAPHY	3.67 - 4.00	0.132075472	masked	0.571428571	7	53	4
+Agriculture & Natural Resources	Natural Resources	CONSERVATION & RESOURCE STUDIES	3.41 - 3.74	0.368421053	3.42 - 3.64	0.666666667	21	57	14
+Agriculture & Natural Resources	Natural Resources	ENVIRONMENTAL ECONOMICS & POLICY	3.58 - 3.85	0.256880734	3.58 - 3.85	0.857142857	28	109	24
+Agriculture & Natural Resources	Natural Resources	ENVIRONMENTAL SCIENCE	3.59 - 3.83	0.180722892	masked	0.266666667	15	83	4
+Agriculture & Natural Resources	Natural Resources	FORESTRY & NATURAL RESOURCES	3.47 - 3.93	0.434782609	3.45 - 3.96	0.8	10	23	8
+Agriculture & Natural Resources	Natural Resources	SOCIETY AND ENVIRONMENT	3.41 - 3.73	0.341176471	3.41 - 3.76	0.75862069	29	85	22
+Architecture & Environ Design	Environmental Design	ARCHITECTURE	3.47 - 3.89	0.283185841	3.46 - 3.89	0.765625	64	226	49
+Architecture & Environ Design	Environmental Design	LANDSCAPE ARCHITECTURE	3.21 - 3.54	0.333333333	3.22 - 3.58	0.833333333	6	18	5
+Architecture & Environ Design	Environmental Design	SUSTAINABLE ENVIRONMENTAL DESIGN	3.32 - 3.78	0.194444444	3.47 - 3.81	0.857142857	7	36	6
+"Area, Ethn, Cultur & Gender Stu"	Letters & Science	AFRICAN-AMERICAN STUDIES	3.67 - 3.72	0.142857143	masked	0.666666667	6	42	4
+"Area, Ethn, Cultur & Gender Stu"	Letters & Science	AMERICAN STUDIES	3.14 - 3.35	0.578947368	3.14 - 3.34	0.909090909	11	19	10
+"Area, Ethn, Cultur & Gender Stu"	Letters & Science	ETHNIC STUDIES	3.08 - 3.85	0.132352941	masked	0.444444444	9	68	4
+"Area, Ethn, Cultur & Gender Stu"	Letters & Science	GENDER & WOMEN'S STUDIES	3.62 - 3.89	0.115384615	masked	0.333333333	12	104	4
+Biological Sciences	Letters & Science	INTEGRATIVE BIOLOGY	3.74 - 3.93	0.22962963	3.63 - 3.85	0.483870968	31	135	15
+Biological Sciences	Letters & Science	MOLECULAR & CELL BIOLOGY - PL1 - 1	3.68 - 3.95	0.25729443	3.64 - 3.97	0.350515464	97	377	34
+Biological Sciences	Letters & Science	MOLECULAR & CELL BIOLOGY - PL1 - 2	3.57 - 3.86	0.101449275	masked	0.428571429	7	69	3
+Biological Sciences	Letters & Science	MOLECULAR & CELL BIOLOGY - PL1 - 3	3.59 - 3.93	0.260273973	3.57 - 3.74	0.526315789	19	73	10
+Biological Sciences	Letters & Science	MOLECULAR & CELL BIOLOGY - PL2 - 2	3.65 - 3.94	0.246073298	3.54 - 3.92	0.404255319	47	191	19
+Biological Sciences	Letters & Science	MOLECULAR & CELL BIOLOGY - PL2 - 3	3.64 - 3.96	0.226519337	3.49 - 3.85	0.463414634	41	181	19
+Biological Sciences	Natural Resources	GENETICS & PLANT BIOLOGY	3.32 - 3.49	0.181818182	masked	0.5	6	33	3
+Biological Sciences	Natural Resources	MICROBIAL BIOLOGY	3.65 - 3.93	0.340206186	3.54 - 3.85	0.484848485	33	97	16
+Biological Sciences	Natural Resources	MOLECULAR ENVIRONMENTAL BIOLOGY	3.58 - 3.85	0.170068027	3.46 - 3.83	0.36	25	147	9
+Business & Management	Business Administration	BUSINESS ADMINISTRATION	3.84 - 4.00	0.054194893	3.84 - 4.00	0.875	104	1919	91
+"Communication, Journalism & Rel"	Letters & Science	MEDIA STUDIES	3.48 - 3.91	0.421663443	3.40 - 3.86	0.610091743	218	517	133
+Computer & Information Sciences	Letters & Science	COMPUTER SCIENCE	3.88 - 4.00	0.061403509	3.89 - 4.00	0.761904762	63	1026	48
+Engineering	Chemistry	CHEMICAL ENGINEERING	3.81 - 3.95	0.328571429	3.80 - 3.95	0.630434783	46	140	29
+Engineering	Engineering	BIOENGINEERING	3.84 - 3.95	0.065217391	3.83 - 3.94	0.777777778	9	138	7
+Engineering	Engineering	CIVIL ENGINEERING	3.76 - 3.95	0.12962963	3.76 - 3.95	0.714285714	28	216	20
+Engineering	Engineering	ELECTRICAL ENGINEERING - COMPUTER SCIENCE	3.86 - 4.00	0.114480667	3.87 - 4.00	0.847682119	151	1319	128
+Engineering	Engineering	ENGINEERING PHYSICS	masked	0.111111111	masked	0.75	4	36	3
+Engineering	Engineering	INDUSTRIAL ENGINEERING & OPERATIONS RESEARCH ENGINEERING	3.83 - 3.94	0.106382979	3.83 - 3.94	1	5	47	5
+Engineering	Engineering	MECHANICAL ENGINEERING	3.82 - 4.00	0.118881119	3.82 - 4.00	0.632352941	68	572	43
+Engineering	Letters & Science	OPERATIONS RESEARCH & MANAGEMENT SCIENCE	3.60 - 3.92	0.5	3.60 - 3.92	1	6	12	6
+Fine & Applied Arts	Letters & Science	ART	3.54 - 3.87	0.33490566	3.54 - 3.87	0.549295775	71	212	39
+Fine & Applied Arts	Letters & Science	FILM	3.65 - 3.92	0.22605364	3.67 - 3.91	0.559322034	59	261	33
+Fine & Applied Arts	Letters & Science	HISTORY OF ART	3.54 - 3.89	0.476635514	3.65 - 3.89	0.431372549	51	107	22
+Fine & Applied Arts	Letters & Science	MUSIC	3.66 - 3.94	0.294117647	3.64 - 3.90	0.35	20	68	7
+Fine & Applied Arts	Letters & Science	THEATER AND PERFORMANCE STUDIES	3.44 - 3.85	0.277777778	3.56 - 3.86	0.52	25	90	13
+Foreign Languages & Lliterature	Letters & Science	CHINESE LANGUAGE & LITERATURE	3.75 - 4.00	0.347222222	3.73 - 4.00	0.32	25	72	8
+Foreign Languages & Lliterature	Letters & Science	COMPARATIVE LITERATURE	3.45 - 3.90	0.457627119	3.34 - 3.70	0.481481481	27	59	13
+Foreign Languages & Lliterature	Letters & Science	"EAST ASIAN RELIGION, THOUGHT, AND CULTURE"	3.58 - 3.93	0.239316239	3.79 - 3.93	0.392857143	28	117	11
+Foreign Languages & Lliterature	Letters & Science	FRENCH	3.63 - 3.94	0.352941176	masked	0.5	6	17	3
+Foreign Languages & Lliterature	Letters & Science	JAPANESE LANGUAGE & LITERATURE	3.51 - 3.88	0.448717949	3.49 - 3.90	0.514285714	35	78	18
+Foreign Languages & Lliterature	Letters & Science	LINGUISTICS	3.78 - 4.00	0.186813187	3.81 - 3.93	0.352941176	34	182	12
+Foreign Languages & Lliterature	Letters & Science	SOUTH & SOUTHEAST ASIAN STUDIES	3.75 - 3.95	0.461538462	masked	0.666666667	6	13	4
+Foreign Languages & Lliterature	Letters & Science	SPANISH	3.41 - 3.83	0.428571429	3.24 - 3.55	0.428571429	21	49	9
+Foreign Languages & Lliterature	Letters & Science	SPANISH - OPTION D	3.29 - 3.78	0.45	3.19 - 3.55	0.666666667	9	20	6
+Interdisciplinary Studies	Letters & Science	COGNITIVE SCIENCE	3.73 - 4.00	0.157608696	3.59 - 3.98	0.517241379	29	184	15
+Interdisciplinary Studies	Letters & Science	GLOBAL STUDIES	3.72 - 3.94	0.227722772	3.67 - 3.86	0.543478261	46	202	25
+Interdisciplinary Studies	Letters & Science	INTERDISCIPLINARY STUDIES	3.41 - 3.68	0.4	3.44 - 3.63	0.708333333	24	60	17
+Interdisciplinary Studies	Letters & Science	NEAR EASTERN CIVILIZATIONS	3.35 - 3.57	0.6	3.35 - 3.57	1	6	10	6
+Interdisciplinary Studies	Natural Resources	NUTRITIONAL SCIENCE	3.60 - 3.90	0.130081301	3.56 - 3.76	0.6875	16	123	11
+Law	Letters & Science	LEGAL STUDIES	3.49 - 3.92	0.346534653	3.47 - 3.85	0.8	35	101	28
+Letters	Letters & Science	ENGLISH	3.58 - 3.98	0.314183124	3.52 - 3.97	0.52	175	557	91
+Letters	Letters & Science	HISTORY	3.74 - 3.95	0.255617978	3.63 - 3.93	0.450549451	91	356	41
+Letters	Letters & Science	PHILOSOPHY	3.49 - 3.91	0.450617284	3.35 - 3.86	0.520547945	146	324	76
+Letters	Letters & Science	RHETORIC	3.33 - 3.77	0.517241379	3.28 - 3.75	0.777777778	45	87	35
+Mathematics	Letters & Science	APPLIED MATHEMATICS	3.69 - 4.00	0.295454545	3.65 - 4.00	0.623076923	130	440	81
+Mathematics	Letters & Science	MATHEMATICS	3.64 - 3.95	0.283185841	3.57 - 3.96	0.583333333	96	339	56
+Mathematics	Letters & Science	STATISTICS	3.73 - 4.00	0.299242424	3.68 - 4.00	0.734177215	79	264	58
+Physical Sciences	Chemistry	CHEMICAL BIOLOGY	3.75 - 4.00	0.168918919	3.75 - 4.00	0.52	25	148	13
+Physical Sciences	Chemistry	CHEMISTRY	3.73 - 3.92	0.154506438	3.72 - 3.87	0.555555556	36	233	20
+Physical Sciences	Engineering	MATERIALS SCIENCE & ENGINEERING	3.80 - 3.86	0.150943396	3.79 - 3.88	0.875	8	53	7
+Physical Sciences	Letters & Science	ASTROPHYSICS	3.62 - 3.84	0.19047619	3.62 - 3.80	0.5625	16	84	9
+Physical Sciences	Letters & Science	CHEMISTRY	3.50 - 3.76	0.5	3.51 - 3.65	0.533333333	15	30	8
+Physical Sciences	Letters & Science	GEOLOGY	3.60 - 3.88	0.36	masked	0.444444444	9	25	4
+Physical Sciences	Letters & Science	PHYSICS	3.54 - 3.91	0.391304348	3.54 - 3.88	0.580246914	81	207	47
+Psychology	Letters & Science	PSYCHOLOGY	3.77 - 3.97	0.08311229	3.75 - 3.98	0.553191489	94	1131	52
+Public Admin & Social Serv Prof	Letters & Science	SOCIAL WELFARE	3.43 - 3.87	0.347826087	3.37 - 3.88	0.8125	32	92	26
+Public Health	Letters & Science	PUBLIC HEALTH	3.55 - 3.90	0.208333333	3.56 - 3.87	0.575	40	192	23
+Social Sciences	Environmental Design	URBAN STUDIES	3.37 - 3.52	0.205882353	3.33 - 3.43	0.714285714	7	34	5
+Social Sciences	Letters & Science	ANTHROPOLOGY	3.66 - 3.92	0.24009901	3.60 - 3.89	0.463917526	97	404	45
+Social Sciences	Letters & Science	ECONOMICS	3.84 - 4.00	0.221311475	3.83 - 4.00	0.673400673	297	1342	200
+Social Sciences	Letters & Science	POLITICAL ECONOMY	3.70 - 3.93	0.207407407	3.65 - 3.91	0.857142857	28	135	24
+Social Sciences	Letters & Science	POLITICAL SCIENCE	3.72 - 3.94	0.266419981	3.64 - 3.93	0.559027778	288	1081	161
+Social Sciences	Letters & Science	SOCIOLOGY	3.76 - 3.97	0.226865672	3.71 - 3.93	0.385964912	228	1005	88
