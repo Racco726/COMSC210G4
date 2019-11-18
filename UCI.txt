@@ -1,0 +1,58 @@
+AfricanAmericanStudies	Not Articulated														
+Anthropology	ANTHR130	ANTHR140	ANTHR125												
+Art History	Not Articulated														
+AsianAmericanStudies	HIST129	ENGL163													
+BiochemistryandMolecularBiology	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+Biological Sciences, B.S	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+Biology/Education, B.S.	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+Business Administration, B.A.	MATH 192	MATH 193	ECON 221	ECON 220	MATH 142	BUS 240	BUSAC 186	BUSAC 187	BUS 109						
+BusinessEconomics, B.A.	ECON 221	ECON 220	MATH 192	MATH 193											
+Chemistry, B.S.	CHEM 120	CHEM 121	MATH 192	MATH 193											
+Chicano/Latino Studies, B.A.	HIST 125	PSYCH 141	ENGL 163	ENGL 166 	HIST 127 	HIST 128	HIST 129	PSYCH 140	SPAN 220	MATH 192	MATH 142 	BUS 240 			
+Chinese Studies, B.A.	CHIN 120	CHIN 121	CHIN 220	CHIN 221											
+Classics, B.A.	Not Articulated														
+Comparative Literature, B.A.	Not Articulated														
+Criminology, Law and Society, B.A	ADJUS 120	PSYCH 101	BIOSC 170	PSYCH 225	PSYCH 230 	PSYCH 215	MATH 142								
+Computer Engineering, B.S	MATH 192	MATH 193	MATH 292	MATH 194	MATH 294	PHYS 130	PHYS 230	PHYS 231	COMSC 110	ENGIN 230	COMSC 165	MATH 195	COMSC 210	COMSC 256	
+Computer Game Science, B.S.	MATH 192	MATH 193	COMSC 200	COMSC 255	COMSC 210	MATH 194	MATH 195								
+Computer Science	MATH 192	MATH 193	COMSC 200	COMSC 255	COMSC 210	MATH 194	MATH 195								
+Developmental and Cell Biology, B.S.	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+East Asian Cultures, B.A.	CHIN 120	CHIN 121	CHIN 220	CHIN 221	JAPAN 120	JAPAN 121	JAPAN 220	JAPAN 221							
+Ecology and Evolutionary Biology, B.S	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227									
+Economics, B.A.	ECON 221	ECON 220	MATH 192	MATH 193											
+English, B.A	Not Articulated														
+Environmental Science and Policy, B.A	MATH 142														
+European Studies, B.A	HIST 140	HIST 141 													
+Exercise Sciences, B.S.	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+Film and Media Studies, B.A.	Not Articulated														
+French, B.A.	FRNCH 120	FRNCH 121	FRNCH 220	FRNCH 221											
+Gender and Sexuality Studies, B.A.	Not Articulated														
+Genetics, B.S.	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+German Studies, B.A	GRMAN 120	GRMAN 121	GRMAN 220	GRMAN 221											
+Global Cultures, B.A.	Not Articulated														
+Global Middle East Studies, B.A	Not Articulated														
+History, B.A.	HIST 150	HIST 151	HIST 140	HIST 141	HIST 120	HIST 121	HIST 135	HIST 136							
+History, with a Specialization in History for Future Teachers, B.A	HIST 120	HIST 121	HIST 150	HIST 151	HIST 140	HIST 141	HIST 135	HIST 136							
+Human Biology, B.S	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+International Studies, B.A.	Not Articulated														
+Japanese Language and Literature, B.A	JAPAN 120 	JAPAN 121	JAPAN 220	JAPAN 221											
+Korean Literature and Culture, B.A.	Not Articulated														
+Language Science, B.A.	ENGL 124	PHILO 170													
+Literary Journalism, B.A.	Not Articulated														
+Mathematics, B.S.	MATH 192	MATH 193	MATH 292	MATH 194	MATH 294	CHEM 120	CHEM 121	PHYS 130	PHYS 230	PHYS 231					
+Microbiology and Immunology, B.S	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+Neurobiology, B.S.	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	CHEM 226	CHEM 227	CHEM 109								
+Philosophy, B.A	Not Articulated														
+Philosophy, B.A. with a Specialization in Law and Society	PHILO 120	PHILO 122													
+Philosophy, B.A. with a Specialization in Medicine and Well-Being	PHILO 120	PHILO 122													
+Political Science, B.A.	POLSC 121	POLSC 240	POLSC 250	POLSC 220											
+Psychological Science, B.A.	PSYCH 101 	PSYCH 130	PSYCH 225	PSYCH 230	ADJUS 120	BIOSC 170 	PSYCH 215	MATH 142							
+Psychology, B.A.	PSYCH 101 	PSYCH 130	PSYCH 101	PSYCH 225	PSYCH 230										
+Psychology, B.S.	PSYCH 101 	PSYCH 130	PSYCH 101	PSYCH 225	PSYCH 230	MATH 192	MATH 193	BIOSC 130	BIOSC 131	CHEM 120	CHEM 121	PHYS 130	PHYS 121	PHYS 124	PHYS 125
+Quantitative Economics, B.A.	ECON 221	ECON 220	MATH 192	MATH 193	MATH 194										
+Religious Studies, B.A.	PHILO 140														
+SocialEcology, B.A.	ADJUS 120	BIOSC 170	PSYCH 101	PSYCH 225	PSYCH 230 	PSYCH 215	MATH 142								
+Social Policy and Public Service, B.A.	SOCIO 135														
+Sociology, B.A.	SOCIO 120	SOCIO 121													
+Spanish, B.A.	SPAN 120	SPAN 121	SPAN 220	SPAN 221											
+Urban Studies, B.A.	ADJUS 120	BIOSC 170	PSYCH 101	PSYCH 225	PSYCH 230 	PSYCH 215	MATH 142	ECON 221							
